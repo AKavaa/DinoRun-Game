@@ -41,10 +41,10 @@ jump_start_y = HEIGHT - 75  # Starting Y position for jumps
 
 # Load game assets with proper error handling
 try:
-    ground_image = PhotoImage(file='Directory/ground.png_')
+    ground_image = PhotoImage(file='Directory/ground.png_.png')
     cloud_image = PhotoImage(file='Directory/cloud.png')
     Small_cactus_image = PhotoImage(file='Directory/cactus-small.png')
-    Big_cactus_image = PhotoImage(file='Directory/cactus-big.png_')
+    Big_cactus_image = PhotoImage(file='Directory/cactus-big.png_.png')
     Small_cactus_image1 = PhotoImage(file='Directory/cactus-small.png')
 
     # Load dinosaur animation frames
