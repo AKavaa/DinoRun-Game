@@ -13,3 +13,13 @@ making it increasingly challenging. Your goal: survive as long as you can and be
 - ✅ Collision detection
 - ✅ Random cactus generation
 - ✅ Lightweight — runs on any machine with Python
+
+
+
+
+👨‍💻 Author
+
+Aleksander Kavaleuskiy
+	•	🌍 Software Engineering Student @ UCLan Cyprus
+	•	💻 Passionate about full-stack development & backend engineering
+	•	🔗 GitHub
